@@ -1,6 +1,10 @@
 # 12-bamazon
 Bamazon!
 
+* NPM Packages Used:
+- mysql
+- inquirer
+
 There is a video walkthrough (without comentary) showing the following:
 
 1. The node screen displaying all of the items in the data base prompting the user to choose which one to purchase.
